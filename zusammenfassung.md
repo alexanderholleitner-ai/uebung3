@@ -6,3 +6,4 @@ Person 1 Commit 3
 Person 2 Commit 3
 Neuer Abschnitt von Person2
 Person 2 Commit 2
+Person 2 Commit 3
